@@ -8,11 +8,11 @@ This project uses HyperSDK that provides the ability to create a custom virtual 
 ```GO
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = "Pizza"
+	HRP = "Krishna"
 	// TODO: choose a name for your hyperchain
-	Name = "Ramkumar"
+	Name = "GenZ"
 	// TODO: choose a token symbol
-	Symbol = "YZA"
+	Symbol = "GZ"
 )
 ```
 This code is added in the ```consts/consts.go```.
